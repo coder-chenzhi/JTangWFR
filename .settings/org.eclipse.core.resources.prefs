@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/com/jtang/function/Generate.java=UTF-8
+encoding//src/org/jtang/distance/mcs/PreProcess.java=UTF-8
+encoding//src/org/jtang/flowrecommender/service/ParallelGEDFlowRecommender.java=UTF-8
+encoding//src/org/jtang/flowrecommender/service/SerialGEDFlowRecommender.java=UTF-8
+encoding//src/org/jtang/flowrecommender/service/SerialMcsFlowRecommender.java=UTF-8
+encoding//src/org/jtang/flowrecommender/service/SubStrings.java=UTF-8
+encoding//src/org/jtang/frequency/gspan/Miner.java=UTF-8
+encoding//src/org/jtang/frequency/gspan/ParseFrequentSubgraph.java=UTF-8
+encoding//src/org/jtang/frequency/gspan/SplitSubgraph.java=UTF-8
+encoding//src/org/jtang/frequency/gspan/WriteToDB.java=UTF-8
+encoding/<project>=UTF-8
